@@ -1,0 +1,11 @@
+{
+    "name": "rstuven/bcmath",
+    "description": "Simple replacement for PHP bcmath extension.",
+    "authors": [
+        {
+            "name": "Ricardo Stuven",
+            "email": "rstuven@gmail.com"
+        }
+    ],
+    "require": {}
+}
