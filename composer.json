@@ -1,5 +1,6 @@
 {
     "name": "rstuven/bcmath",
+    "version": "0.0.1",
     "description": "Simple replacement for PHP bcmath extension.",
     "authors": [
         {
